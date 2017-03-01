@@ -1,3 +1,3 @@
 function(){
-	alert(0)
+	alert(me)
 }
